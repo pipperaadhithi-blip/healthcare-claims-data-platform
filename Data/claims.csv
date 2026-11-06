@@ -1,0 +1,6 @@
+claim_id,patient_id,amount,status
+1001,P001,1200,Approved
+1002,P002,800,Pending
+1003,P003,1500,Approved
+1004,P004,,Rejected
+1005,P005,900,Approved
